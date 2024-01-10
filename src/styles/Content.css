@@ -1,0 +1,23 @@
+.container-content {
+  background-color: #435585;
+  color: #ffffff;
+  font-style: normal;
+  width: 98%;
+  height: 100%;
+  margin-left: 10px;
+  border: 10px solid rgba(0, 0, 0, 0);
+  margin-right: 30em;
+  margin-top: 8rem;
+}
+
+.content-title {
+  color: black;
+}
+
+.content-text {
+  color: white;
+}
+
+.content-user {
+  color: grey;
+}

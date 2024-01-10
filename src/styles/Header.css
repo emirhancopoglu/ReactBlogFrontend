@@ -1,0 +1,47 @@
+.header-logo {
+  width: 300px;
+  height: 100px;
+  margin-left: 1rem;
+}
+
+.loginbutton {
+  background: linear-gradient(
+    0deg,
+    rgba(0, 172, 238, 1) 0%,
+    rgba(2, 126, 251, 1) 100%
+  );
+  font-style: normal;
+  font-weight: bold;
+  width: 7%;
+  color: black;
+  float: right;
+  margin-top: 4rem;
+  margin-right: 12rem;
+  border: 5px solid rgba(0, 0, 0, 0);
+}
+
+.signupbutton {
+  background: linear-gradient(
+    0deg,
+    rgba(0, 172, 238, 1) 0%,
+    rgba(2, 126, 251, 1) 100%
+  );
+  font-style: normal;
+  font-weight: bold;
+  width: 7%;
+  color: black;
+  float: right;
+  margin-top: 4rem;
+  margin-right: 3rem;
+  border: 5px solid rgba(0, 0, 0, 0);
+}
+
+.loginbutton:hover {
+  background: #04ff00;
+  box-shadow: none;
+}
+
+.signupbutton:hover {
+  background: #04ff00;
+  box-shadow: none;
+}

@@ -1,0 +1,40 @@
+.container-login {
+  margin: 17rem;
+}
+
+.container-button {
+  font-family: "JetBrains Mono", monospace;
+  display: block;
+  width: 100%;
+  max-width: 100px;
+  padding: 10px;
+  margin: 20px auto 10px;
+  border: none;
+  border-radius: 15px;
+  background-color: #0077ff;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.4s ease;
+}
+
+.input-field {
+  display: block;
+  width: auto;
+  padding: 10px;
+  margin: 10px auto;
+  border: 1px solid #555;
+  border-radius: 15px;
+  background-color: #444;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0px 0px 200px rgba(255, 255, 255, 0.3);
+  background: linear-gradient(45deg, #10141c, #10141c, #10141c, #10141c);
+  background-size: 300% 300%;
+  animation: color 1s ease-in-out infinite;
+}
+
+.welcometext {
+  color: black;
+  text-align: center;
+}

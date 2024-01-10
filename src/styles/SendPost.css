@@ -1,0 +1,62 @@
+.text-input {
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #10141c;
+  color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 20px;
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px #888;
+  outline: none;
+  display: block;
+  margin: 20px;
+}
+
+.textarea {
+  resize: none;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px #888;
+  outline: none;
+  display: block;
+  margin: 5px;
+  background: #10141c;
+  color: white;
+}
+
+.submitbutton {
+  background-color: #0088cc;
+  color: rgb(29, 28, 28);
+  height: 50px;
+  border: 10px solid rgba(0, 0, 0, 0);
+  display: block;
+  margin-left: 22rem;
+  margin-top: 1rem;
+  font-size: 18px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+.submitbutton:hover {
+  background: #04ff00;
+  box-shadow: none;
+}
+
+.container-title {
+  font-weight: bold;
+  display: block;
+  font-size: 20px;
+  margin: 5px;
+  margin-left: 20px;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+
+.container-sendpost {
+  margin-left: 35rem;
+  margin-top: 5rem;
+}
