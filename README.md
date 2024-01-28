@@ -68,3 +68,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Home Page
+Kullanıcıları karşılayan anasayfa.
+
+![HomePage](https://github.com/emirhancopoglu/ReactBlogFrontend/assets/95498082/c72c0cd4-91ff-4a5d-a689-05935261cc95)
+##
+### Signup Page
+Kullanıcının kaydol butonuna tıkladığında kullanıcıyı karşılayan sayfa.
+
+![SignupPage](https://github.com/emirhancopoglu/ReactBlogFrontend/assets/95498082/aa77009b-fd2d-43f6-8736-aad2e4129390)
+##
+### Login Page
+Kullanıcı giriş yap butonuna tıkladığında kullanıcıyı karşılayan sayfa.
+
+![LoginPage](https://github.com/emirhancopoglu/ReactBlogFrontend/assets/95498082/0fc73cb7-6289-4773-b50b-cf5f204646a7)
+##
+### Send Post Page
+Kullanıcı blog girdisi yazmak için Yeni Post butonuna tıkladığında kullanıcıyı karşılayan sayfa.
+
+![SendPostPage](https://github.com/emirhancopoglu/ReactBlogFrontend/assets/95498082/7de56b08-dcf3-45cc-88b8-46639111b9b4)
+##
+### Members Page
+Üye Listesi butonuna tıklandığında kayıtlı kullanıcıları gösteren sayfa.
+
+![MembersPage](https://github.com/emirhancopoglu/ReactBlogFrontend/assets/95498082/ba6d75c9-3741-4228-9ff6-2da30d75be26)
+
+## 
+
+
